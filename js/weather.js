@@ -1,5 +1,5 @@
-const API_KEY = 'eac7b9bb3823ad04ab6f2efb18ae20db'
-// https://api.openweathermap.org/data/2.5/weather?lat=35.8593839&lon=128.5795303&appid=eac7b9bb3823ad04ab6f2efb18ae20db
+// const API_KEY = '...'
+// https://api.openweathermap.org/data/2.5/weather?lat=35.8593839&lon=128.5795303&appid=API_KEY
 
 
 function onGeoOk(position) {
